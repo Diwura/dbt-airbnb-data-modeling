@@ -1,0 +1,18 @@
+version: 2
+
+exposures:
+  - name: executive_dashboard
+    label: Executive Dashboard
+    type: dashboard
+    maturity: low
+    url: https://ad9328f7.us2a.app.preset.io/superset/dashboard/8/?edit=true&native_filters_key=CwR8m_5hq9lJuc5hZAK4degL8rEjYzfGHUARDfj6t2Jgh1-BW_Odm6D2_c_D9451
+    description: Executive Dashboard about Airbnb listings and hosts
+      
+
+    depends_on:
+      - ref('dim_listings_w_hosts')
+      - ref('mart_fullmoon_reviews')
+
+    owner:
+      name: Oluwaseun
+      email: 
