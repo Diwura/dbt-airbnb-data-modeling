@@ -1,2 +1,3 @@
-dbt_dagster_project/tmptyyrtp8c/
-**/__pycache__/
+tmptyyrtp8c/
+__pycache__/
+dbt_dagster_project/__pycache__/
