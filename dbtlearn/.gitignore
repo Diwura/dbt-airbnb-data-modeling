@@ -2,6 +2,5 @@
 target/
 dbt_packages/
 logs/
-dbt_dagster_project/__pycache__/
-dbt_dagster_project/tmptyyrtp8c/
-dbt_dagster_project/dbt_dagster_project/__pycache__/
+dbt_workflow\dbt_dagster_project\tmptyyrtp8c
+**/__pycache__/
