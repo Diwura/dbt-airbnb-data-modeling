@@ -1,3 +1,6 @@
-dbt_dagster_project/tmptyyrtp8c/
-dbt_dagster_project/__pycache__/
+
 dbt_dagster_project/dbt_dagster_project/__pycache__
+
+__pycache__
+tmptyyrtp8c
+tmp*
